@@ -1,0 +1,77 @@
+body{
+    font-family: 'Open Sans', sans-serif; 
+    margin: 0; 
+    }
+
+#alta{
+   width: 400px;
+    margin-top: 0px;
+    margin-left: 0px;
+    font-size: 16px;
+    text-align: right;
+}
+
+#baixa{
+    text-align: right;
+    margin-top: 90px;
+}
+
+#alta h1 {
+    font-size: 30px;
+    line-height: 28px;
+}
+
+#alta p{
+    font-size: 9px;
+}
+
+#voce{
+    margin-left: 170px;
+    color: black;
+    font-weight: normal;
+}
+
+#baixa img{
+    margin-bottom: 12px;
+    margin-right: 60px;
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom: 32px;
+}
+
+h1 span {
+    font-weight: bold;
+}
+
+span, a{
+    color: #ff9900;
+}
+
+p, #footer{
+    color: #7D7987;
+    font-size: 9px;
+    line-height: 28px;
+}
+
+#footer a + a {
+    margin-left:28px ;
+    margin-bottom: 33px;
+}
+
+#footer #line{
+    width: 568px;
+    height: 0px;
+    border: 1px #eceff2 solid;
+    margin: 0 auto 8px;
+}
+
+#balls{
+    position: fixed;
+    top: 0px;
+    right: 10px;
+}
